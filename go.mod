@@ -1,4 +1,4 @@
-module github.com/caddy-dns/template
+module github.com/22rw/dode
 
 go 1.16
 
