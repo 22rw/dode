@@ -29,14 +29,14 @@ To use this module for the ACME DNS challenge, [configure the ACME issuer in you
 
 or with the Caddyfile:
 
-# globally
+### globally
 ```
 {
 	acme_dns dode <api_token>
 }
 ```
 
-# one site
+### one site
 ```
 example.com {
 	respond "Hello World"
