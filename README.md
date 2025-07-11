@@ -1,7 +1,7 @@
 [do.de](https://www.do.de) module for Caddy
 ===========================
 
-This package contains a DNS provider module for [Caddy](https://github.com/caddyserver/caddy). It can be used to manage DNS records with [do.de](https://www.do.de).
+This package contains a DNS provider module for [Caddy](https://github.com/caddyserver/caddy). It can be used to manage DNS records with [do.de](https://www.do.de). For more information see https://github.com/libdns/dode.
 
 ## Caddy module name
 
